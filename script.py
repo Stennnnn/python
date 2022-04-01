@@ -8,4 +8,5 @@ if age > age2:
     print("Sten is 17 and older")
 else:
     print("age2 is older than Sten")
-  
+
+input('Press ENTER to exit')
