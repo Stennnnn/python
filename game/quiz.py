@@ -60,10 +60,10 @@ print("===============================")
 inc = "a"
 inc2 = "b"
 cor = "c"
-print("a. SCSI")
-print("b. PCI")
-print("c. PCIE")
-answer = input("vraag 3.  ")
+print("a. De koelpasta op de processor en videochip")
+print("b. De knipperende lichtjes op het moederbord")
+print("c. De bedrading van computerkabels")
+answer = input("vraag 3. Wat wordt bedoeld met ketchup en mosterd? ")
 if answer == "c":
     print("Correct!")
 else:
