@@ -4,3 +4,9 @@ turn a python script into an .executable
 2. When installed open terminal again and type in "pyinstaller filename.py --onefile"
 3. wait until a dist folder appears and copy the folder within to the desktop
 4. you have succesfully made a python .exe!
+
+
+Python modules
+
+1. Install any modules via terminal using 'pip install module_name'
+2. include these modules in python script using 'import module_name'
